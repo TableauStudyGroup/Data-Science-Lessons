@@ -1,8 +1,8 @@
-# Tableau Study Group / Data Science Lessons
-
+# Lesson 1
 ## Guide to Embedding a Tableau Dashboard in a Jupyter Notebook
+### Author: Vernon Naidoo
  
-1. Start with a any Tableau workbook (.twb file).
+1. Start with any Tableau workbook (.twb file).
 1. Save it as a Tableau Packaged Workbook (.twbx file).
 1. From the Data menu, choose the name of your extract, then click "Extract Data..." and resave the file.
 1. If you don't already have one, sign up for a free [Tableau Public](http://public.tableau.com) account.
