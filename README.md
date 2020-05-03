@@ -1,5 +1,4 @@
-# Lesson 1
-## Guide to Embedding a Tableau Dashboard in a Jupyter Notebook
+## Lesson 1: Embedding a Tableau Viz in a Jupyter Notebook
 ### Author: Vernon Naidoo
  
 1. Start with any Tableau workbook (.twb file).
