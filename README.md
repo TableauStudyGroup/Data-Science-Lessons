@@ -1,4 +1,4 @@
-# Tableau Study Group
+# Tableau Study Group / Data Science Lessons
 
 ## Guide to Embedding a Tableau Dashboard in a Jupyter Notebook
  
